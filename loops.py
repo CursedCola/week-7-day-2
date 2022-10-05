@@ -108,8 +108,8 @@ def loop():
   
   students = ["Norville", "Fred", "Velma", "Daphne"]
   
-  for name in students:
-    print(f"Hello {name}")
+  # for name in students:
+  #   print(f"Hello {name}")
   
   
   # For Loops Practice #2
